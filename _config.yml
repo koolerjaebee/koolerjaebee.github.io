@@ -119,9 +119,9 @@ author:
   location         : "South Korea"
   email            : "koolerjaebee@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:koolerjaebee@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:koolerjaebee@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -310,6 +310,12 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -337,3 +343,12 @@ defaults:
       comments: false
       share: true
       related: false
+      
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
