@@ -7,6 +7,5 @@ entries_layout: grid
 classes: wide
 ---
 
-클라우드, DevOps와 웹 개발 하고 있는 IT 개발자입니다. 풀스택 개발자를 목표로 합니다.
-
-Python, JavaScript, Azure 프로젝트 경험 있습니다.
+<!-- 클라우드, DevOps와 웹 개발 하고 있는 IT 개발자입니다. 풀스택 개발자를 목표로 합니다. -->
+---
