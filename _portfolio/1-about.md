@@ -3,24 +3,14 @@ title: "About"
 excerpt: "개발자 허재웅"
 header:
   # image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/portfolio-about_teaser.png
+  teaser: assets/images/portfolio/about_teaser.png
 sidebar:
   - title: "Role"
-    image: /assets/images/portfolio-profile.png
+    image: /assets/images/portfolio/profile.png
     image_alt: "logo"
     text: "IT 개발자"
   - title: "Work"
     text: "차라투 주식회사"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 저는 기계공학을 전공하고 현재는 IT 개발자를 하고 있는 허재웅입니다.
